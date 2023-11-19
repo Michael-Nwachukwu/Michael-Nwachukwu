@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/nappy"><img src="https://api.daily.dev/devcards/281f31e989cd4d38b3e3cde74d09f7a3.png?r=pd1" width="400" alt="Michael's Dev Card"/></a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwachukwu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://readme-two-gray.vercel.app/)](https://github.com/anuraghazra/github-readme-stats)
